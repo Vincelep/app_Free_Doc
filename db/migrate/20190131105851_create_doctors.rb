@@ -4,6 +4,7 @@ class CreateDoctors < ActiveRecord::Migration[5.2]
     	t.string :first_name
     	t.string :last_name
     	t.string :zip_code
+    	t.belongs_to :city, index: true
     	t.string :specialty
       t.timestamps
     end
