@@ -11,6 +11,7 @@ Tu veux concurrencer Doctolib, donc tu te dis : et si je créais un site qui fai
 ## Sur Slack :
 
 * Vincent Leparoux  slack/  @Vincelep :dolphin:
+* Nikolas Zwiller  slack  @Nico :chicken:
 
 
 ## Lien vers tous les exos :
